@@ -11,6 +11,11 @@ import com.restful.backend.model.User;
 import javax.validation.Valid;
 import java.util.List;
 
+/**
+ * Controlador de usuarios
+ * @author Agustín Dye
+ */
+
 @RestController
 public class UserController {
 
