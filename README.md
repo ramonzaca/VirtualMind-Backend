@@ -13,6 +13,7 @@ El proyecto se desarrollo bajo las siguientes condiciones:
 	* Apache Maven 3.3.9
 
 La base de datos posee la configuración:
+
 	* Usuario: root
 	* Contraseña :root
 
